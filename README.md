@@ -1,1 +1,0 @@
-# Spatial-analysis-of-Road-accidents-with-R
